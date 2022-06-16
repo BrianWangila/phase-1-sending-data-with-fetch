@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,865 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 15
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 17
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 18
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Poodle",
+      "id": 19
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 20
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 21
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 22
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 23
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 24
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 25
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 26
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 27
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 28
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 29
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 30
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 31
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 32
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 33
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 34
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 35
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 36
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 37
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 38
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 39
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 40
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 41
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 42
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 43
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 44
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 45
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 46
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 47
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 48
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 49
+    },
+    {
+      "dogName": "Charlie",
+      "dogBreed": "Chihuahua",
+      "id": 50
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 51
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 52
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 53
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 54
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 55
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 56
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 57
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 58
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 59
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 60
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 61
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 62
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 63
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 64
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 65
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 66
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 67
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 68
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 69
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 70
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 71
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 72
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 73
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 74
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 75
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 76
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 77
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 78
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 79
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 80
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 81
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 82
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 83
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 84
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 85
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 86
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 87
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 88
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 89
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 90
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 91
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 92
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 93
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 94
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 95
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 96
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 97
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 98
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 99
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 100
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 101
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 102
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 103
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 104
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 105
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 106
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 107
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 108
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 109
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 110
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 111
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 112
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 113
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 114
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 115
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 116
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 117
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 118
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 119
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 120
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 121
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 122
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 123
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 124
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 125
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 126
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 127
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 128
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 129
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 130
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 131
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 132
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 133
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 134
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 135
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 136
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 137
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 138
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 139
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 140
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 141
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 142
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 143
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 144
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 145
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 146
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 147
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 148
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 149
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 150
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 151
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 152
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 153
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 154
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 155
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 156
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 157
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 158
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 159
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 160
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 161
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 162
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 163
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 164
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 165
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 166
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 167
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 168
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 169
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 170
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 171
+    },
+    {
+      "dogName": "Byrone",
+      "dogBreed": "Poodle",
+      "id": 172
+    },
+    {
+      "dogName": "Jill",
+      "dogBreed": "German",
+      "id": 173
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +878,288 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 1
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 2
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 3
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 4
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 5
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 6
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 7
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 8
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 9
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 10
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 11
+    },
+    {
+      "userName": "Brian",
+      "userEmail": "name@gmail.com",
+      "id": 12
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 13
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 14
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "",
+      "userEmail": "name@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "name@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 18
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 19
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 20
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 21
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 22
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 23
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 24
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 25
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 26
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 27
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 28
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 29
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 30
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 31
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 32
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 33
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 34
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 35
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 36
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 37
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 38
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 39
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 40
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 41
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 42
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 43
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 44
+    },
+    {
+      "userName": "Brian Wangila",
+      "userEmail": "name@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "",
+      "userEmail": "name@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "",
+      "email": "name@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "Ravvy",
+      "email": "name@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "Brian Wangila",
+      "email": "name@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "Ravvy",
+      "email": "ravvy@gmail.com",
+      "id": 55
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
